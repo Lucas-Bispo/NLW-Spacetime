@@ -9,7 +9,6 @@ app.get('/users', async () => {
 
   return users
 })
-
 app
   .listen({
     port: 3333,
