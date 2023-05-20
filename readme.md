@@ -150,13 +150,6 @@
           <span>TypeScript</span>
         </td>
         <td align="center" height="110" width="140">
-          <img alt="Phosphor logo" src="https://raw.githubusercontent.com/phosphor-icons/phosphor-react/HEAD/meta/phosphor-mark-tight-yellow.png" title="Phosphor" width="50" />
-          <br>
-          <span>Phosphor</span>
-        </td>
-      </tr>
-      <tr>
-        <td align="center" height="110" width="140">
           <img alt="PostCSS logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/PostCSS_Logo.svg/790px-PostCSS_Logo.svg.png" title="PostCSS" width="50" />
           <br>
           <span>PostCSS</span>
