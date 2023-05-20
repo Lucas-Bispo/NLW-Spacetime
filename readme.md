@@ -14,8 +14,76 @@
   
   ## 📚 Sobre
   
-  Plataforma de Eventos: Garante que os usuário tenham um apredizado sobre determinados assuntos em até cinco dias ou mais.
+  Cápsula do tempo: Aplicação de recordação de memórias, onde o usuário poderá adicionar à uma timeline textos, fotos e vídeos de acontecimentos marcantes da sua vida, organizados por mês e ano.
   
+  ### Instalação de pacotes para funcionamento do projeto para pasta WEB 
+    'npm init -y'
+    npm install @types/node
+    npm install @types/react
+    npm install @types/react-dom
+    npm install autoprefixer
+    npm install axios
+    npm install dayjs
+    npm install eslint
+    npm install eslint-config-next
+    npm install js-cookie
+    npm install jwt-decode
+    npm install lucide-react
+    npm install next
+    npm install react
+    npm install postcss
+    npm install react-dom
+    npm install tailwindcss
+    npm install typescript
+
+  ### Instalação de pacotes para funcionamento do projeto para pasta WEB de Desenvolvimento
+    npm install @rocketseat/eslint-config
+    npm install @tailwindcss/forms
+    npm install @types/js-cookie
+    npm install prettier-plugin-tailwindcss
+  ### Instalação de pacotes para funcionamento do projeto para pasta SERVER
+    npm install @fastify/cors
+    npm install @fastify/jwt
+    npm install @fastify/multipart
+    npm install @fastify/static
+    npm install @prisma/client
+    npm install axios
+    npm install fastify
+    npm install zod
+  
+   ### Instalação de pacotes para funcionamento do projeto para pasta MOBILE
+    npm install @expo-google-fonts/bai-jamjuree
+    npm install @expo-google-fonts/roboto
+    npm install @types/react
+    npm install axios
+    npm install dayjs
+    npm install expo
+    npm install expo-constants
+    npm install expo-font
+    npm install expo-image-picker
+    npm install expo-linking
+    npm install expo-router
+    npm install expo-secure-store
+    npm install expo-status-bar
+    npm install nativewind
+    npm install react
+    npm install react-native
+    npm install react-native-safe-area-context
+    npm install react-native-screens
+    npm install react-native-svg
+       
+   ### Dependências de desenvolvimento:
+    npm install @babel/core
+    npm install @rocketseat/eslint-config
+    npm install prettier-plugin-tailwindcss
+    npm install react-native-svg-transformer
+    npm install tailwindcss
+    npm install tailwindcss
+
+
+
+
+
   ### 🕹️ Possui as seguintes funcionalidades:
   
   - Tela de cadastro.
