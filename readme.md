@@ -81,15 +81,11 @@
     npm install tailwindcss
 
 
-
-
-
   ### 🕹️ Possui as seguintes funcionalidades:
   
-  - Tela de cadastro.
-  - Escolher qual aula deseja assistir.
-  - Botão de acesso ao material de apoio.
-  - Botão que vai a entrada da comunidade.
+  - Tela de cadastro e login com Github.
+  - Enviar fotos com descrição para cadastrar as linhas no tetmpo.
+ 
   
   O administrador recebe os dados por e-mail.
   
@@ -139,9 +135,9 @@
       </tr>
       <tr>
         <td align="center" height="110" width="140">
-          <img alt="Vite logo" src="https://seeklogo.com/images/V/vite-logo-BFD4283991-seeklogo.com.png" title="Vite" width="50" />
+          <img alt="Vite logo" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fseeklogo.com%2Fvector-logo%2F449825%2Fnext-js-icon&psig=AOvVaw0RMQCBCv1NJXiRLi23HrWB&ust=1684672270732000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIiZrrPzg_8CFQAAAAAdAAAAABAE" title="Vite" width="50" />
           <br>
-          <span>Vite</span>
+          <span>NextJs</span>
         </td>
         <td align="center" height="110" width="140">
           <img alt="Tailwind CSS logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/480px-Tailwind_CSS_Logo.svg.png" title="Tailwind CSS" width="50" />
