@@ -135,7 +135,7 @@
       </tr>
       <tr>
         <td align="center" height="110" width="140">
-          <img alt="Vite logo" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fseeklogo.com%2Fvector-logo%2F449825%2Fnext-js-icon&psig=AOvVaw0RMQCBCv1NJXiRLi23HrWB&ust=1684672270732000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIiZrrPzg_8CFQAAAAAdAAAAABAE" title="Vite" width="50" />
+          <img alt="Vite logo" src="https://github.com/Lucas-Bispo/Especializacao-react/assets/60610011/f3758015-0e3e-4ef1-80dc-4e251605622a" title="Vite" width="50" />
           <br>
           <span>NextJs</span>
         </td>
