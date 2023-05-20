@@ -1,6 +1,5 @@
 <div align="center">
-    <img alt="Trilha Inpulse Ignite-lab" src="![Wallpaper - 1400x900](https://github.com/Lucas-Bispo/Especializacao-react/assets/60610011/46b058b8-60bc-4d60-a185-172832f80204)
-">
+    <img alt="Trilha Inpulse Ignite-lab" src="https://github.com/Lucas-Bispo/Especializacao-react/assets/60610011/46b058b8-60bc-4d60-a185-172832f80204">
   </div>
   
   <br>
